@@ -6,5 +6,7 @@ public class GitController {
 		
 		System.out.println("확인용 구문");
 		
+		System.out.println("추가구문");
+		
 	}
 }
